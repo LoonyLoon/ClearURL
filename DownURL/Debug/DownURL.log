@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\develop\VS_projects\DownURL\main.cpp(61,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\develop\VS_projects\DownURL\main.cpp(31,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\develop\VS_projects\DownURL\main.cpp(83,36): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+  DownURL.vcxproj -> D:\develop\VS_projects\DownURL\Debug\DownURL.exe
